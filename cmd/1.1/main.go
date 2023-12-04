@@ -1,7 +1,7 @@
 package main
 
 import (
-	string2 "AoC/cmd/pkg/string"
+	string2 "AoC/pkg/string"
 	"bufio"
 	"fmt"
 	"os"
